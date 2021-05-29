@@ -1,0 +1,4 @@
+#Mon Sep 14 12:27:18 GST 2020
+base.0=C\:\\Users\\Dhanya Sudhakaran\\React_app\\Main_app\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
